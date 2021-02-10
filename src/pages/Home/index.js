@@ -24,7 +24,7 @@ function Home() {
     const classes = useStyles();
 
     return (
-        <div classname={classes.root}>
+        <div className={classes.root}>
             <Header />
             <div className={classes.toolbar}></div>
             <main className={classes.main}>
