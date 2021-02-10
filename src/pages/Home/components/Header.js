@@ -43,7 +43,7 @@ function Header() {
                         <Bell></Bell>
                     </SvgIcon>
                     <Avatar alt="Robinho" src=""></Avatar>
-                    parei no 55:43                   
+                    parei no 2:34:55                   
                 </div>                
             </Toolbar>
         </AppBar>
